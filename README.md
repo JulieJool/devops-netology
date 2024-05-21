@@ -10,3 +10,4 @@ some lines
 # любые crash.*.log, *.tfvars, *.tfvars.json, *_override.tf, *_override.tf.json;
 # файлы crash.log, override.tf, override.tf.json, .terraformrc, terraform.rc
 # в текущей директории.
+a line of code
